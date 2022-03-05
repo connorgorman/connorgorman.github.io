@@ -477,12 +477,12 @@ section {
 /* Alternate Row Colouring 
 ––––––––––––––––––––––––––––––––––––––––––––––––––*/
 
-#experience, #awards, #skills {
+#experience, #technical {
     background-color:  #{{ site.colour.alternatestripe }};
     color: #ffffff;
 }
 
-#experience .headline p span, #awards .headline p span, #skills .headline p span  {
+#experience .headline p span, #technical .headline p span {
     background-color: #{{ site.colour.alternatestripe }};
 }
 
