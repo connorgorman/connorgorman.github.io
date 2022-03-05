@@ -1,16 +1,11 @@
 ---
 
 layout: default
-name: Christian Surname
-location: "Somewhere"
-country: Nation
-email: "your.address@email.com"
-twitter: "@meontwitter"
-blog: "https://wordpress.com/"
-linkedin: "http://www.linkedin.com/"
-github: "https://github.com/"
-flickr: "https://www.flickr.com/"
-slideshare: "http://slideshare.net/"
+name: Connor Gorman
+location: "San Diego, CA"
+country: USA
+linkedin: "https://www.linkedin.com/in/connor-gorman-09966452/"
+github: "https://github.com/connorgorman"
 
 ---
 
