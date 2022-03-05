@@ -1,6 +1,6 @@
 ---
 
-title: "Current Hobbies & Interests"
+title: "Current Interests"
 
 ---
 
