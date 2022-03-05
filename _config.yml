@@ -7,9 +7,6 @@ baseurl: "/resume-builder" # the subpath of your site, e.g. /blog/
 
 # Collections-builder
 collections:
-    award:
-        output: false
-        title: Award
     education: 
         output: false
         title: Education
@@ -25,9 +22,6 @@ collections:
     profile:
         output: false
         title: Profile
-    skills:
-        output: false
-        title: Skills
 
 # Colour Configuration
 

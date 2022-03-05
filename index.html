@@ -113,15 +113,15 @@ _________________________________________ -->
     
     <div class="container">
         
-{% for technical in site.technical reversed %}
+{% for technical in site.technical %}
     <div class="row">  
-         <div class="seven columns">
+         <div class="seven columns" align="center">
             <p><a href="{{ technical.link }}">{{ technical.title }}</a></p>
             {{ technical.content}}
         </div>
     </div>
         
-{% endfor %}         
+{% endfor %}
  
         
     </div>
