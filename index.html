@@ -102,7 +102,7 @@ _________________________________________ -->
     </div>
 </section>
     
-<section class="u-full-width" id="publications"> 
+<section class="u-full-width" id="technical">
 
     <div class="container" align="center">  
         <div class="headline" align="center">
@@ -113,19 +113,11 @@ _________________________________________ -->
     
     <div class="container">
         
-{% for publications in site.publications reversed %}        
+{% for technical in site.technical reversed %}
     <div class="row">  
-        <div class="five columns">
-                <h2 class="date">{{ publications.published-date }}</h2>
-                <h4 class="institution">{{ publications.publisher }}</h4>
-            </div>
          <div class="seven columns">
-            <h3>{{ publications.title }}</h3>
-        
-        <p class="authors">{{ publications.authors }}</p>
-            
-        {{ publications.content}}
-        <p><a href="{{ publications.link }}" class="button button-primary">Download</a></p>
+            <p><a href="{{ technical.link }}">{{ technical.title }}</a></p>
+            {{ technical.content}}
         </div>
     </div>
         
