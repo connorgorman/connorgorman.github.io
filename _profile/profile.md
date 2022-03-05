@@ -10,7 +10,4 @@ github: "https://github.com/connorgorman"
 ---
 
 
-
-Create an elegant and customisable resume using Jekyll. Built to be simple to edit, update and modify, this Jekyll based site allows you to run your personal resume in public and for free on GitHub pages. Buy your own web domain and for about the cost of a (fancy) coffee you can display your professional identity on the web. 
-
-Liberate yourself from LinkedIn and other resume services by having your own space. Display what information you want and how you want it. You don't need a business card - get a URL!
+Hey, I'm Connor. I'm currently a backend technical lead at Red Hat as a part of the Advanced Cluster Security team by way of acquisition (formerly StackRox). I enjoy building things from the ground up, iterating through customer feedback and growing alongside customers. I'm passionate about distributed systems and solving problems in a scalable manner.
