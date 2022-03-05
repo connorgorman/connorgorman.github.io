@@ -1,6 +1,6 @@
 ---
 
-period: "Aug 2017 - Feb 2021 (acquired)"
+period: "Aug 2017 - Feb 2021"
 employer: StackRox
 title: "Principal Engineer"
 
